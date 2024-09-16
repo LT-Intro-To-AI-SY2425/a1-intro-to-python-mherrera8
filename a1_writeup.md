@@ -14,10 +14,10 @@ Mr. Berg will look at all your files to determine what you have completed.  If t
 
 1. What is your initial thoughts about the python programming language?
 
-
+I think that for the most part, python is easy enough to understand, its different from Java where instead of typeing System.out.print, you only need to type print(). I think that this makes the language easier to read, but I am still unfamiliar with the langueage which makes it more difficult for me to understand.
 
 2. Describe some similarities and differences that you found between python and other programming languages you have used in the past?
 
-
+Python is simpler than other programing languages. In python you only need to write def to define a funtion, instead of private String... as you would in Java. This makes it easier to read python.
 
 3. What are some things that you learned through this assignment?
