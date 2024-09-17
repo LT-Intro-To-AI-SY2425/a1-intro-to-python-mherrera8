@@ -18,6 +18,8 @@ I think that for the most part, python is easy enough to understand, its differe
 
 2. Describe some similarities and differences that you found between python and other programming languages you have used in the past?
 
-Python is simpler than other programing languages. In python you only need to write def to define a funtion, instead of private String... as you would in Java. This makes it easier to read python.
+Python is simpler than other programing languages. In python you only need to write def to define a funtion, instead of private String... as you would in Java. This makes it easier to read python.There are also some problems that are much simpler to solve in python than java.
 
 3. What are some things that you learned through this assignment?
+
+Through this assignment I was able to learn the "java" way to solve problems, and the "python" way. This helped me understand the differences between the two languages and learn simpler ways to solving the problems. I found this really interesting how some problems that would typically take multiple lines of code to solve in java, were able to be solved in a single line in python.
